@@ -1,6 +1,6 @@
 # HerokuJavaApp
 
-[![Build Status](https://travis-ci.org/bogdantudor74/KeycloackWaffleAuthenticator.svg?branch=master)](https://travis-ci.org/bogdantudor74/KeycloackWaffleAuthenticator)
+[![Build Status](https://travis-ci.org/bogdantudor74/HerokuJavaApp.svg?branch=master)](https://travis-ci.org/bogdantudor74/HerokuJavaApp)
 
 <a href="https://zenhub.com"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
 
