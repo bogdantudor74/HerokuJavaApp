@@ -69,6 +69,7 @@ public class Main {
       model.put("records", output);
       return "db";
     } catch (Exception e) {
+    	e.printStackTrace();
       model.put("message", e.getMessage());
       return "error";
     }
